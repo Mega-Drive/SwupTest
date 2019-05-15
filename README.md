@@ -1,0 +1,2 @@
+# SwupTest
+swup plugin test
